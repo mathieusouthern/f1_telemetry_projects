@@ -1,4 +1,4 @@
-# f1_telemetry_projects
+# F1 Telemetry Projects
 Some code for handling F1 telemetry data and analysing it.
 
 There will be 4 projects in this repository eventually, those being the following:
