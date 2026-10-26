@@ -15,6 +15,8 @@ For example, if you gave the following:
  - Mass = 70kg
  - Car mass = 750kg
  - Power = 800000W
+
+
 You would get the following:
 Simulating 1D Longitudinal Acceleration Profile...
 Simulation complete! Time down straight: 12.749 seconds. Exit speed: 353.6 km/h
