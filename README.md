@@ -2,7 +2,7 @@
 Some code for handling F1 telemetry data and analysing it.
 
 There will be 4 projects in this repository eventually, those being the following:
-  - 1D lap simulator for a straight
+  - 1D lap simulator for a 1000m straight
   - Simplified 2D lap simulator for a track of choice (current: N/A)
   - Brake analysis using F1 telemetry data
   - Simple thermodynamic tyre model
